@@ -13,3 +13,7 @@ void Data::addF(double f)
 {
 	F.push_back(f);
 }
+void Data::addElem(vector<double> nodes)
+{
+	elems.push_back(new Elem(nodes));
+}

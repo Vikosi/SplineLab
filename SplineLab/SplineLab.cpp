@@ -7,7 +7,6 @@ using namespace std;
 string root = "..\\TEST\\";
 int main()
 {
-    
     cout << "Hello World!\n";
 }
 
